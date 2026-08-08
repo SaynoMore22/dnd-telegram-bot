@@ -1,0 +1,12 @@
+.env
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+bin/
+tmp/
+.idea/
+.vscode/
+*.exe
+*.test
