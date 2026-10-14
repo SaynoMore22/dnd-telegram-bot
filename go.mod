@@ -1,4 +1,4 @@
-module github.com/flash4612/dnd-telegram-bot
+module github.com/SaynoMore22/dnd-telegram-bot
 
 go 1.22
 

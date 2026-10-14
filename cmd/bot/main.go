@@ -9,10 +9,10 @@ import (
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 
-	"github.com/flash4612/dnd-telegram-bot/internal/bot"
-	"github.com/flash4612/dnd-telegram-bot/internal/config"
-	"github.com/flash4612/dnd-telegram-bot/internal/store"
-	"github.com/flash4612/dnd-telegram-bot/internal/voice"
+	"github.com/SaynoMore22/dnd-telegram-bot/internal/bot"
+	"github.com/SaynoMore22/dnd-telegram-bot/internal/config"
+	"github.com/SaynoMore22/dnd-telegram-bot/internal/store"
+	"github.com/SaynoMore22/dnd-telegram-bot/internal/voice"
 )
 
 func main() {
